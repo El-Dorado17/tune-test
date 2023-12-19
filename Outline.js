@@ -17,3 +17,27 @@ Stretch features:
     -score
 
 */
+
+
+/*
+
+Files:
+    Database.js
+        -Holds list of question, answer, images, and incorrect answers
+                const questions = [
+            {
+                question: "What year is known as Y2K?",
+                answers: [
+                    { text: '2000', correct: true },
+                    { text: '1999', correct: false }
+                ]
+            },
+        ]
+
+    Test.js
+        -imports questions
+        -form displaying one random question
+        -button per answer
+        -button to move to next question
+
+*/

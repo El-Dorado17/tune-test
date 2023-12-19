@@ -1,8 +1,5 @@
-
-<!-- 
 Wireframe:
 https://wireframe.cc/P0zOv3 
--->
 
 # Getting Started with Create React App
 
