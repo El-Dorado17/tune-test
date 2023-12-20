@@ -18,10 +18,25 @@ Stretch features:
 
 */
 
+/*
+Nav
+    Contains code for nav bar
+
+Quiz
+    contains Database.js and Quiz.js
+
+Views
+    Not sure if needed but just incase multiple views or a 
+    staging area before going to App.js
+*/
 
 /*
 
 Files:
+
+    Nav.js Options:
+        -Test, Study, 
+
     Database.js
         -Holds list of question, answer, images, and incorrect answers
                 const questions = [
@@ -34,7 +49,7 @@ Files:
             },
         ]
 
-    Test.js
+    Quiz.js
         -imports questions
         -form displaying one random question
         -button per answer
